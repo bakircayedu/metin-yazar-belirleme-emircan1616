@@ -1,0 +1,10 @@
+C:\Users\souls\source\repos\VeriYapilariProjeOdev\VeriYapilariProjeOdev\bin\Debug\VeriYapilariProjeOdev.exe.config
+C:\Users\souls\source\repos\VeriYapilariProjeOdev\VeriYapilariProjeOdev\bin\Debug\VeriYapilariProjeOdev.exe
+C:\Users\souls\source\repos\VeriYapilariProjeOdev\VeriYapilariProjeOdev\bin\Debug\VeriYapilariProjeOdev.pdb
+C:\Users\souls\source\repos\VeriYapilariProjeOdev\VeriYapilariProjeOdev\obj\Debug\VeriYapilariProjeOdev.csprojAssemblyReference.cache
+C:\Users\souls\source\repos\VeriYapilariProjeOdev\VeriYapilariProjeOdev\obj\Debug\VeriYapilariProjeOdev.Form1.resources
+C:\Users\souls\source\repos\VeriYapilariProjeOdev\VeriYapilariProjeOdev\obj\Debug\VeriYapilariProjeOdev.Properties.Resources.resources
+C:\Users\souls\source\repos\VeriYapilariProjeOdev\VeriYapilariProjeOdev\obj\Debug\VeriYapilariProjeOdev.csproj.GenerateResource.cache
+C:\Users\souls\source\repos\VeriYapilariProjeOdev\VeriYapilariProjeOdev\obj\Debug\VeriYapilariProjeOdev.csproj.CoreCompileInputs.cache
+C:\Users\souls\source\repos\VeriYapilariProjeOdev\VeriYapilariProjeOdev\obj\Debug\VeriYapilariProjeOdev.exe
+C:\Users\souls\source\repos\VeriYapilariProjeOdev\VeriYapilariProjeOdev\obj\Debug\VeriYapilariProjeOdev.pdb
